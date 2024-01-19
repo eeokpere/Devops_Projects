@@ -5,6 +5,7 @@
 ### FILE MANIPULATION
 1) sudo COMMAND 
 > This command lets you perform tasks that require adminstrative or root permission
+
 ![sudo](Linux Project/images/sudo.png)
 
 2) pwd COMMAND
