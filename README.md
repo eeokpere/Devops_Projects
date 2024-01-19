@@ -1,2 +1,2 @@
 # Devops_Projects
-My darey.io projects 
+This is a portfolio of various projects carried out through out my DevOps journey
