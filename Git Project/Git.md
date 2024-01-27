@@ -63,7 +63,8 @@ We will achieve this by following the steps bellow.:
 ![push](images/push.PNG)
 
 ## Cloning Remote Git repository
-Best practice dictates that we makes a copy of our story locally in his local machine, creates a branch where we can make all the modifications we sees fit
+To make a copy of a remote repo on your local machine, where you can make all the modifications you sees fit, we use Git clone
+It is git tool for downloading a remote repository to your local machine. 
 The command is as follows:
 
 ![clone](images/clone.PNG)
