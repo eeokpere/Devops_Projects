@@ -11,14 +11,14 @@ Git adopted a different approach. It allows developers make their own copy of th
 ### Initializing a Git Repository
 Before initializing a git repo you must have installed git in your computer.
 Now to initialize a git repo follow these steps:
-![Initializing](init.PNG)
+![Initializing](images/init.PNG)
 
 
 ### Making your first Commit
 Commit is more or less saving the changes you made to your files.
 Changes can be adding. Modifying or deleting files or text.
 Now lets make our first commit by following these steps:
-![first commit](commit.PNG)
+![first commit](images/commit.PNG)
 The-mflag is used to provide a commit message. The commit message is a nice way to provide context about the commit. When writing a commit message, make it descriptive as possible. Let it explain why the commit was made.
 
 
@@ -32,38 +32,38 @@ Git branch is also an important tool for collaboration within remote teams(devel
 ### Make your first git Branch
 To make a new branch run this command: 
 
-![branch](branch.PNG)
+![branch](images/branch.PNG)
 The -b flag helps your create and change into the new branch
 
 Listing your git Branches 
 Use the command below to list the branches in your local git repository
-![list_branches]( list_branches.PNG)
+![list_branches](images/list_branches.PNG)
 
 Change into an old branch
 To change an existing old branch, use this command 
-![change_branch](change_branch.PNG)
+![change_branch](images/change_branch.PNG)
 
 Merging a branch into another branch 
 If you have multiple Branches, this is how you merge the different contents of the Branches together 
-![merge](merge.PNG)
+![merge](images/merge.PNG)
 
 Deleting a git Branch 
 Git branch can be deleted with the command below 
-![delete_branch](delete_branch.PNG)
+![delete_branch](images/delete_branch.PNG)
 
 ## Pushing your Local git Repository to your Remote github Repository.
 Having created a github account and a github repository in earlier steps, Lets send a copy of our story to our repository in github.
 We will achieve this by following the steps bellow.:
 ### Add a remote repository to the local repository using the command below:
 
-![add_repo](add_repo.PNG)
+![add_repo](images/add_repo.PNG)
 
 ### After committing your changes to your local repo, you push the content to theremote repo using the command below;
 
-![push](push.PNG)
+![push](images/push.PNG)
 
-## Cloning Remote Git Repository
+## Cloning Remote Git repository
 Best practice dictates that we makes a copy of our story locally in his local machine, creates a branch where we can make all the modifications we sees fit
 The command is as follows:
 
-![clone](clone.PNG)
+![clone](images/clone.PNG)
