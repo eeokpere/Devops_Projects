@@ -52,13 +52,13 @@ Git branch can be deleted with the command below
 ![delete_branch](images/delete_branch.PNG)
 
 ## Pushing your Local git Repository to your Remote github Repository.
-Having created a github account and a github repository in earlier steps, Lets send a copy of our story to our repository in github.
+We will need to push the changes made to your local repositiry to a remote repository on GitHub.
 We will achieve this by following the steps bellow.:
 ### Add a remote repository to the local repository using the command below:
 
 ![add_repo](images/add_repo.PNG)
 
-### After committing your changes to your local repo, you push the content to theremote repo using the command below;
+### After committing your changes to your local repo, you push the content to the remote repo using the command below;
 
 ![push](images/push.PNG)
 
